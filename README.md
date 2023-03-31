@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/24665763/229155341-9e2e2bc4-f8d7-4635-a40f-a7a27d4d5868.png)
+![image](https://user-images.githubusercontent.com/24665763/229157751-a87e3d1e-36e2-4ce9-b420-feff07f6fcb0.png)
 
 #### Chapter1. Java 8~11까지의 변화
 - 스트림 처리
